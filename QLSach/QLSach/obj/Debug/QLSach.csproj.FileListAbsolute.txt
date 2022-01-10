@@ -1,0 +1,13 @@
+C:\Users\TranDucTam\source\repos\QLSach\QLSach\obj\Debug\QLSach.csproj.AssemblyReference.cache
+C:\Users\TranDucTam\source\repos\QLSach\QLSach\obj\Debug\QLSach.Properties.Resources.resources
+C:\Users\TranDucTam\source\repos\QLSach\QLSach\obj\Debug\QLSach.csproj.GenerateResource.cache
+C:\Users\TranDucTam\source\repos\QLSach\QLSach\obj\Debug\QLSach.csproj.CoreCompileInputs.cache
+C:\Users\TranDucTam\source\repos\QLSach\QLSach\obj\Debug\QLSach.Sach.resources
+C:\Users\TranDucTam\source\repos\QLSach\QLSach\bin\Debug\QLSach.exe.config
+C:\Users\TranDucTam\source\repos\QLSach\QLSach\bin\Debug\QLSach.exe
+C:\Users\TranDucTam\source\repos\QLSach\QLSach\bin\Debug\QLSach.pdb
+C:\Users\TranDucTam\source\repos\QLSach\QLSach\obj\Debug\QLSach.exe
+C:\Users\TranDucTam\source\repos\QLSach\QLSach\obj\Debug\QLSach.pdb
+C:\Users\TranDucTam\source\repos\QLSach\QLSach\obj\Debug\QLSach.Kho.resources
+C:\Users\TranDucTam\source\repos\QLSach\QLSach\obj\Debug\QLSach.Form1.resources
+C:\Users\TranDucTam\source\repos\QLSach\QLSach\obj\Debug\QLSach.Khachhang.resources
